@@ -1,6 +1,6 @@
 # English version
 ```
-wget https://raw.githubusercontent.com/AxFrds/BBR/main/tcp.sh
+wget https://raw.githubusercontent.com/AxFrds/BBR/master/tcp.sh
 chmod +x tcp.sh
 ./tcp.sh
 ```
